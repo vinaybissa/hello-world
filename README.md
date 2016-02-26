@@ -1,3 +1,3 @@
 # hello-world
 
-Hello Everyone, I am new on GitHUB
+Hi Vinay, I am new on GitHUB
